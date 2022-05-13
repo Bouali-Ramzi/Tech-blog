@@ -4,7 +4,6 @@ description: You can use the zoom property in css to scale deferent content insi
 date: 2022-01-21
 tags:
   - CSS
-layout: layouts/post.njk
 ---
 
 You can use the zoom property in css to scale deferent content or items inside the HTML and make it big or small, i don't recomand using it in live sites.
